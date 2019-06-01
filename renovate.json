@@ -1,0 +1,10 @@
+{
+  "packageRules": [
+      {
+      "packageNames": [
+        "typescript"
+      ],
+      "updateTypes": "patch"
+    }
+    ]
+}
