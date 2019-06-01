@@ -1,5 +1,9 @@
 {
   "packageRules": [
+    {
+      "packageNames": ["typescript"],
+      "separateMinorPatch": true
+    },
       {
       "packageNames": [
         "typescript"
