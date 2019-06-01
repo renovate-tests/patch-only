@@ -4,7 +4,8 @@
       "packageNames": [
         "typescript"
       ],
-      "updateTypes": "patch"
+      "updateTypes": ["minor", "major"],
+      "enabled": false
     }
     ]
 }
